@@ -1,0 +1,12 @@
+%chk=wat-sp.chk
+%nproc=1
+%mem=1GB
+# RHF/6-31G* SCF=Tight
+
+wat-sp
+
+0 1
+O1
+H2 1 0.9572
+H3 1 0.9572 2 104.52
+

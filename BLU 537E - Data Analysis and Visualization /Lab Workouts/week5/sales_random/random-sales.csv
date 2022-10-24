@@ -1,0 +1,10 @@
+customerid,name,gender,city,phone,item,item quantity,payment
+2010101,Cengiz,e,istanbul,2122851784,buzdolabı,1,500$
+2010105,merve,k,bursa,2242851784,çamaşır makinesi,2,100£
+2017104,kemal,e,ankara,3122851784,bulaşık makinesi,3,300€
+2012404,canan,k,izmir,2322851784,dondurucu,1,100$
+2013504,mert,e,ankara,3129998899,fırın,2,50£
+2008504,lale,k,istanbul,2122851784,televizyon,4,250€
+2011107,burak,e,izmir,2322851785,buzdolabı,2,300£
+2015403,hilal,k,bursa,2242851784,fırın,4,250$
+2013343,tamer,e,istanbul,2122851784,çamaşır makinesi,3,400€

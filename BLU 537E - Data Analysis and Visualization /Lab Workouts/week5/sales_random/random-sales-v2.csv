@@ -1,0 +1,10 @@
+customerid,name,gender,city,phone,item,item quantity,payment
+2010101,Cengiz,e,istanbul,212-285-17-84,buzdolabı,1,500$
+2010105,merve,k,bursa,(224) 285 17 84,çamaşır makinesi,2,100£
+2017104,kemal,e,,(312)-285-17-84,bulaşık makinesi,3,300€
+2012404,canan,k,izmir,0232 285 17 84,dondurucu,1,100$
+2013504,mert,e,ankara,312; 999 ; 88 ;99,fırın,2,50£
+2008504,lale,k,  ,212 285 17 84,televizyon,4,250€
+2011107,burak,e,izmir,0(232) 285-17-85,buzdolabı,2,300£
+2015403,hilal,k, ,224 285 1784,fırın,4,250$
+2013343,tamer,e, istanbul,212 285 17 84,çamaşır makinesi,3,400€
